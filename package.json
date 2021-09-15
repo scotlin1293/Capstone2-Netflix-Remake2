@@ -52,12 +52,12 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/darwin619/Netflix-Clone.git"
+    "url": "git+https://github.com/scotlin1293/Capstone2-Netflix-Remake2.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/darwin619/Netflix-Clone/issues"
+    "url": "https://github.com/scotlin1293/Capstone2-Netflix-Remake2"
   },
-  "homepage": "https://github.com/darwin619/Netflix-Clone#readme"
+  "homepage": "https://github.com/scotlin1293/Capstone2-Netflix-Remake2#readme"
 }
