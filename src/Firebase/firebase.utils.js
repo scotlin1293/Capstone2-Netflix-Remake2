@@ -1,4 +1,5 @@
-import firebase from "firebase/app";
+import { initializeApp } from "firebase/app";
+import { getAnalytics } from "firebase/analytics";
 import "firebase/firestore";
 import "firebase/auth";
 
@@ -37,7 +38,8 @@ export const CreateUserProfileDocument = async (userAuth, additionalData) => {
   return userRef;
 };
 
-firebase.initializeApp(Config);
+const app = initializeApp(firebaseConfig);
+const analytics = getAnalytics(app);
 
 export const auth = firebase.auth();
 export const firestore = firebase.firestore();

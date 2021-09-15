@@ -1,7 +1,7 @@
 // Configuration for TMDB
-// To se the latest configuration fetch it from https://api.themoviedb.org/3/configuration?api_key=9f1ffd64abd4bde18614fd9087d87d71
+// To see the latest configuration fetch it from https://api.themoviedb.org/3/configuration?api_key=9f1ffd64abd4bde18614fd9087d87d71
 const API_URL = "https://api.themoviedb.org/3/";
-const API_KEY = "9f1ffd64abd4bde18614fd9087d87d71";
+const API_KEY = "0ktul07EI4IU3wauzX_BtqWF4Yb8NTBgniwmPSylEvk";
 
 // Images
 // An image URL looks like this example:
