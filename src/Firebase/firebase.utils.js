@@ -3,7 +3,7 @@ import { getAnalytics } from "firebase/analytics";
 import "firebase/firestore";
 import "firebase/auth";
 
-const Config = {
+const firebaseConfig = {
   apiKey: "AIzaSyA1io58YwuaYArSOhxHNqJE2A7HFIss9VM",
   authDomain: "scotlin-netflix-clone.firebaseapp.com",
   databaseURL: "https://scotlin-netflix-clone-default-rtdb.firebaseio.com/",
